@@ -6,5 +6,6 @@ app.get('/', function(req, res){
 });
 
 app.use('/search', require('./search'));
+app.use('/templates', require('./templates'));
 
 app.listen(process.env.PORT || 3000);

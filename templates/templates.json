@@ -1,0 +1,111 @@
+[
+  {
+    "title": "3CB BAF",
+    "mods": [
+      "@3cb_baf_equipment",
+      "@3cb_baf_units",
+      "@3cb_baf_vehicles",
+      "@3cb_baf_weapons",
+      "@cba_a3"
+    ]
+  },
+   {
+    "title": "ACE3",
+    "mods": [
+      "@ace3",
+      "@cba_a3"
+    ]
+  },
+  {
+    "title": "ACRE",
+    "mods": [
+      "@acre2",
+      "@cba_a3"
+    ]
+  },
+  {
+    "title": "CUP Terrain Pack",
+    "mods": [
+      "@cup_terrains_core",
+      "@cup_terrains_maps"
+    ]
+  },
+  {
+    "title": "HLC",
+    "mods": [
+      "@hlcmods_ak",
+      "@hlcmods_augs",
+      "@hlc_ar15",
+      "@hlc_awm",
+      "@hlc_g36",
+      "@hlcmods_core",
+      "@hlcmods_fal",
+      "@hlcmods_g3",
+      "@hlcmods_m14",
+      "@hlcmods_m60e4",
+      "@hlc_wp_mp5",
+      "@hlc_wp_saw"
+    ]
+  },
+  {
+    "title": "Leights OPFOR",
+    "mods": [
+      "@leights_opfor",
+      "@rhs_afrf3",
+      "@rhs_usf3"
+    ]
+  },
+  {
+    "title": "RHS",
+    "mods": [
+      "@rhs_afrf3",
+      "@rhs_usf3"
+    ]
+  },
+  {
+    "title": "SFP",
+    "mods": [
+      "@cba_a3",
+      "@mrt_accfncs",
+      "@sfp"
+    ]
+  },
+  {
+    "title": "SFP Islands",
+    "mods": [
+      "@cup_terrains_core",
+      "@cup_terrains_maps",
+      "@sfp_objects",
+      "@sfp_sturkoe_island",
+      "@sfp_wamako"
+    ]
+  },
+  {
+    "title": "SFP (Dev]",
+    "mods": [
+      "@cba_a3",
+      "@mrt_accfncs",
+      "@sfp_nightly",
+      "@sfp_dev_nightly"
+    ]
+  },
+  {
+    "title": "SFP Islands (Dev]",
+    "mods": [
+      "@cup_terrains_core",
+      "@cup_terrains_maps",
+      "@sfp_bjorkfors_nightly",
+      "@sfp_objects_nightly",
+      "@sfp_roso_nightly",
+      "@sfp_sturko_nightly",
+      "@sfp_wamako_nightly"
+    ]
+  },
+  {
+    "title": "Task Force Radio",
+    "mods": [
+      "@cba_a3",
+      "@task_force_radio"
+    ]
+  }
+]
