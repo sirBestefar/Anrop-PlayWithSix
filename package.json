@@ -12,6 +12,7 @@
   "dependencies": {
     "cors": "^2.8.1",
     "express": "^4.14.0",
-    "playwithsix": "0.0.10"
+    "playwithsix": "0.0.10",
+    "request": "^2.75.0"
   }
 }

@@ -8,6 +8,7 @@ app.get('/', function(req, res){
   res.send('hello world!');
 });
 
+app.use('/operations', require('./operations'));
 app.use('/search', require('./search'));
 app.use('/templates', require('./templates'));
 
