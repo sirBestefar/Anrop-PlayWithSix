@@ -1,9 +1,13 @@
 const express = require('express');
 const playwithsix = require('playwithsix');
 
+const cache = require('../cache');
+
+const CACHE_SEARCH_RESPONSE_DURATION = 10 * 60
+
 const app = express();
 
-app.get('/', function(req, res){
+app.get('/', cache(CACHE_SEARCH_RESPONSE_DURATION), function(req, res){
   const query = req.query.q;
 
   if (!query) {
