@@ -81,7 +81,7 @@
     ]
   },
   {
-    "title": "SFP (Dev]",
+    "title": "SFP [Dev]",
     "mods": [
       "@cba_a3",
       "@mrt_accfncs",
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "title": "SFP Islands (Dev]",
+    "title": "SFP Islands [Dev]",
     "mods": [
       "@cup_terrains_core",
       "@cup_terrains_maps",
