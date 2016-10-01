@@ -9,11 +9,23 @@
       "@cba_a3"
     ]
   },
-   {
+  {
     "title": "ACE3",
     "mods": [
       "@ace3",
       "@cba_a3"
+    ]
+  },
+  {
+    "title": "ACE3 + RHS",
+    "mods": [
+      "@ace3",
+      "@ace3_compat_rhs_afrf3",
+      "@ace3_compat_rhs_usf3",
+      "@cba_a3",
+      "@rhs_afrf3",
+      "@rhs_gref",
+      "@rhs_usf3"
     ]
   },
   {
@@ -59,6 +71,7 @@
     "title": "RHS",
     "mods": [
       "@rhs_afrf3",
+      "@rhs_gref",
       "@rhs_usf3"
     ]
   },
