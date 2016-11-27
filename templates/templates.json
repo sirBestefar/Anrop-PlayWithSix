@@ -43,6 +43,13 @@
     ]
   },
   {
+    "title": "Faces of War",
+    "mods": [
+      "@cba_a3",
+      "@fow"
+    ]
+  },
+  {
     "title": "HLC",
     "mods": [
       "@hlcmods_ak",
