@@ -29,6 +29,22 @@
     ]
   },
   {
+    "title": "ACE3 Particles",
+    "mods": [
+      "@ace3",
+      "@ace3_particles",
+      "@cba_a3"
+    ]
+  },
+  {
+    "title": "ACE3 Tracers",
+    "mods": [
+      "@ace3",
+      "@ace3_tracers",
+      "@cba_a3"
+    ]
+  },
+  {
     "title": "ACRE",
     "mods": [
       "@acre2",
