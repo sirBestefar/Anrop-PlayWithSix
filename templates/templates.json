@@ -144,5 +144,37 @@
       "@cba_a3",
       "@task_force_radio"
     ]
+  },
+  {
+    "title": "ZluskeN Cold War Units (CUP)",
+    "mods": [
+      "@cba_a3",
+      "@cup_units",
+      "@cup_vehicles",
+      "@cup_weapons",
+      "@us_military_mod_a3",
+      "@zsn_coldwar",
+      "@zsn_soviet_troops_disclose"
+    ]
+  },
+  {
+    "title": "ZluskeN Cold War Units (ACE + Black Ops + CUP + HLC)",
+    "mods": [
+      "@ace3",
+      "@black_ops_weapons_80s_90s",
+      "@cba_a3",
+      "@cup_ace_compatibility",
+      "@cup_units",
+      "@cup_vehicles",
+      "@cup_vehicles_ace_compat",
+      "@cup_weapons",
+      "@hlcmods_ak",
+      "@hlcmods_core",
+      "@us_military_mod_a3",
+      "@zsn_coldwar",
+      "@zsn_coldwar_bow_west",
+      "@zsn_coldwar_hlc_east",
+      "@zsn_soviet_troops_disclose"
+    ]
   }
 ]
