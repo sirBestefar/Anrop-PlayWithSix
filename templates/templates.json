@@ -83,6 +83,44 @@
     ]
   },
   {
+    "title": "Iron Front",
+    "mods": [
+      "@ifa3_objects_lite",
+      "@ifa3_terrains_lite",
+      "@ifa3lite"
+    ]
+  },
+  {
+    "title": "Iron Front + ACE3",
+    "mods": [
+      "@ace3",
+      "@cba_a3",
+      "@ifa3_ace3_compatibility",
+      "@ifa3_objects_lite",
+      "@ifa3_terrains_lite",
+      "@ifa3lite"
+    ]
+  },
+  {
+    "title": "Iron Front + Faces of War",
+    "mods": [
+      "@cba_a3",
+      "@fow",
+      "@ifa3_objects_lite",
+      "@ifa3_terrains_lite",
+      "@ifa3lite",
+      "@iron-front-arma-3-faces-of-war-compatibility-patch"
+    ]
+  },
+  {
+    "title": "Iron Front Terrains",
+    "mods": [
+      "@cup_terrains_core",
+      "@ifa3_objects_lite",
+      "@ifa3_terrains_lite"
+    ]
+  },
+  {
     "title": "Leights OPFOR",
     "mods": [
       "@leights_opfor",
