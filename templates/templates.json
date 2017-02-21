@@ -83,6 +83,13 @@
     ]
   },
   {
+    "title": "I44 Terrains",
+    "mods": [
+      "@i44_objects",
+      "@i44_terrains"
+    ]
+  },
+  {
     "title": "Iron Front",
     "mods": [
       "@ifa3_objects_lite",
