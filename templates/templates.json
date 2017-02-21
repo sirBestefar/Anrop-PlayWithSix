@@ -121,9 +121,9 @@
     ]
   },
   {
-    "title": "Leights OPFOR",
+    "title": "Project OPFOR",
     "mods": [
-      "@leights_opfor",
+      "@project_opfor",
       "@rhs_afrf3",
       "@rhs_usf3"
     ]
