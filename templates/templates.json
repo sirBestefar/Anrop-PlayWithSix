@@ -151,7 +151,6 @@
     "title": "SFP",
     "mods": [
       "@cba_a3",
-      "@mrt_accfncs",
       "@sfp"
     ]
   },
@@ -169,7 +168,6 @@
     "title": "SFP [Dev]",
     "mods": [
       "@cba_a3",
-      "@mrt_accfncs",
       "@sfp_nightly",
       "@sfp_dev_nightly"
     ]
