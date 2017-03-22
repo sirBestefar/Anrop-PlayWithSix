@@ -21,6 +21,7 @@
     "mods": [
       "@ace3",
       "@ace3_compat_rhs_afrf3",
+      "@ace3_compat_rhs_gref3",
       "@ace3_compat_rhs_usf3",
       "@cba_a3",
       "@rhs_afrf3",
