@@ -1,3 +1,7 @@
+if (process.env.NEW_RELIC_LICENSE_KEY && process.env.NEW_RELIC_APP_NAME) {
+  require('newrelic');
+}
+
 const express = require('express');
 const cors = require('cors');
 
