@@ -198,10 +198,25 @@
     "mods": [
       "@cba_a3",
       "@cup_units",
-      "@cup_vehicles",
       "@cup_weapons",
       "@us_military_mod_a3",
       "@zsn_coldwar",
+      "@zsn_soviet_troops_disclose"
+    ]
+  },
+  {
+    "title": "ZluskeN Cold War Units (RHS)",
+    "mods": [
+      "@cba_a3",
+      "@cup_units",
+      "@cup_vehicles",
+      "@cup_weapons",
+      "@rhs_afrf3",
+      "@rhs_usf3",
+      "@us_military_mod_a3",
+      "@zsn_coldwar",
+      "@zsn_coldwar_rhs_west",
+      "@zsn_coldwar_rhs_east",
       "@zsn_soviet_troops_disclose"
     ]
   },
@@ -221,7 +236,7 @@
       "@us_military_mod_a3",
       "@zsn_coldwar",
       "@zsn_coldwar_bow_west",
-      "@zsn_coldwar_hlc_east",
+      "@zsn_coldwar_hc_east",
       "@zsn_soviet_troops_disclose"
     ]
   }
