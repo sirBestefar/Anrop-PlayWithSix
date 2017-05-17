@@ -1,7 +1,7 @@
 module.exports = function (operation, mods) {
   mods = mods.map(function (mod) {
-    return '- "' + mod.name + '"';
-  }).sort().join('\n');
+    return '- "' + mod.name + '"'
+  }).sort().join('\n')
 
   return `---
 :name: "${operation.title}"
@@ -22,5 +22,5 @@ ${mods}
 :apps: []
 :missions: []
 :mpmissions: []
-  `;
-};
+  `
+}
