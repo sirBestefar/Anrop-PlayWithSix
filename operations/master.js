@@ -1,7 +1,7 @@
 module.exports = function (operations) {
   const servers = operations.map(function (operation) {
-    return '- "' + operation.id + '"';
-  }).join('\n');
+    return '- "' + operation.id + '"'
+  }).join('\n')
 
   return `---
 :homepage: "https://www.anrop.se"
@@ -22,5 +22,5 @@ ${servers}
 :mpmissions: {}
 :max_threads: 8
 :server_mods_path: false
-  `;
-};
+  `
+}

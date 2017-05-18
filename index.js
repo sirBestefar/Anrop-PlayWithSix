@@ -1,20 +1,20 @@
 if (process.env.NEW_RELIC_LICENSE_KEY && process.env.NEW_RELIC_APP_NAME) {
-  require('newrelic');
+  require('newrelic')
 }
 
-const express = require('express');
-const cors = require('cors');
+const express = require('express')
+const cors = require('cors')
 
-const app = express();
-app.use(cors());
+const app = express()
+app.use(cors())
 
-app.get('/', function(req, res){
-  res.send('hello world!');
-});
+app.get('/', function (req, res) {
+  res.send('hello world!')
+})
 
-app.use('/operations', require('./operations'));
-app.use('/redirect', require('./redirect'));
-app.use('/search', require('./search'));
-app.use('/templates', require('./templates'));
+app.use('/operations', require('./operations'))
+app.use('/redirect', require('./redirect'))
+app.use('/search', require('./search'))
+app.use('/templates', require('./templates'))
 
-app.listen(process.env.PORT || 3000);
+app.listen(process.env.PORT || 3000)

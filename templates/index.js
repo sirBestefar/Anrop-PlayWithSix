@@ -1,11 +1,11 @@
-const express = require('express');
+const express = require('express')
 
-const templates = require('./templates.json');
+const templates = require('./templates.json')
 
-const app = express();
+const app = express()
 
-app.get('/', function(req, res){
-  res.send(templates);
-});
+app.get('/', function (req, res) {
+  res.send(templates)
+})
 
-module.exports = app;
+module.exports = app

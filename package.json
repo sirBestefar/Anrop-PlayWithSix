@@ -4,11 +4,17 @@
   "description": "Play withSIX service for Anrop",
   "main": "index.js",
   "scripts": {
+    "lint": "standard --verbose",
     "start": "node index.js",
     "test": "mocha -R spec"
   },
   "author": "Björn Dahlgren",
   "license": "MIT",
+  "standard": {
+    "env": [
+      "mocha"
+    ]
+  },
   "dependencies": {
     "cors": "^2.8.3",
     "express": "^4.15.2",
@@ -19,6 +25,7 @@
   },
   "devDependencies": {
     "mocha": "^3.2.0",
+    "standard": "^10.0.2",
     "supertest": "^3.0.0"
   }
 }
