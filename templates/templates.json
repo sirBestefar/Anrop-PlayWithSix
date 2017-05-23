@@ -17,6 +17,17 @@
     ]
   },
   {
+    "title": "ACE3 + RH Acc + RH M4",
+    "mods": [
+      "@ace3",
+      "@ace3_compat_rh_acc",
+      "@ace3_compat_rh_m4",
+      "@cba_a3",
+      "@rh_acc",
+      "@rh_m4_a3"
+    ]
+  },
+  {
     "title": "ACE3 + RHS",
     "mods": [
       "@ace3",
