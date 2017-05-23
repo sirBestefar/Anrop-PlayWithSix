@@ -209,6 +209,7 @@
     "mods": [
       "@cba_a3",
       "@cup_units",
+      "@cup_vehicles",
       "@cup_weapons",
       "@us_military_mod_a3",
       "@zsn_coldwar",
@@ -220,7 +221,6 @@
     "mods": [
       "@cba_a3",
       "@cup_units",
-      "@cup_vehicles",
       "@cup_weapons",
       "@rhs_afrf3",
       "@rhs_usf3",
