@@ -98,17 +98,17 @@
     "title": "I44 Terrains",
     "mods": [
       "@cup_terrains_core",
-      "@i44_objects",
-      "@i44_terrains"
+      "@i44_terrains",
+      "@ww2_objects"
     ]
   },
   {
     "title": "Iron Front",
     "mods": [
       "@cup_terrains_core",
-      "@ifa3_objects_lite",
       "@ifa3_terrains_lite",
-      "@ifa3lite"
+      "@ifa3lite",
+      "@ww2_objects"
     ]
   },
   {
@@ -118,9 +118,9 @@
       "@cba_a3",
       "@cup_terrains_core",
       "@ifa3_ace3_compatibility",
-      "@ifa3_objects_lite",
       "@ifa3_terrains_lite",
-      "@ifa3lite"
+      "@ifa3lite",
+      "@ww2_objects"
     ]
   },
   {
@@ -129,18 +129,18 @@
       "@cba_a3",
       "@cup_terrains_core",
       "@fow",
-      "@ifa3_objects_lite",
       "@ifa3_terrains_lite",
       "@ifa3lite",
-      "@iron-front-arma-3-faces-of-war-compatibility-patch"
+      "@iron-front-arma-3-faces-of-war-compatibility-patch",
+      "@ww2_objects"
     ]
   },
   {
     "title": "Iron Front Terrains",
     "mods": [
       "@cup_terrains_core",
-      "@ifa3_objects_lite",
-      "@ifa3_terrains_lite"
+      "@ifa3_terrains_lite",
+      "@ww2_objects"
     ]
   },
   {
