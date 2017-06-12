@@ -205,6 +205,13 @@
     ]
   },
   {
+    "title": "Task Force Radio (Dev)",
+    "mods": [
+      "@cba_a3",
+      "@task_force_radio_dev"
+    ]
+  },
+  {
     "title": "ZluskeN Cold War Units (CUP)",
     "mods": [
       "@cba_a3",
