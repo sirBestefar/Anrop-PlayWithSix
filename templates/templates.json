@@ -239,10 +239,11 @@
     ]
   },
   {
-    "title": "ZluskeN Cold War Units (ACE + Black Ops + CUP + HLC)",
+    "title": "ZluskeN Cold War Units (ACE + CUP + HLC + RH)",
     "mods": [
       "@ace3",
-      "@black_ops_weapons_80s_90s",
+      "@ace3_compat_rh_acc",
+      "@ace3_compat_rh_m4",
       "@cba_a3",
       "@cup_ace_compatibility",
       "@cup_units",
@@ -251,10 +252,12 @@
       "@cup_weapons",
       "@hlcmods_ak",
       "@hlcmods_core",
+      "@rh_acc",
+      "@rh_m4_a3",
       "@us_military_mod_a3",
       "@zsn_coldwar",
-      "@zsn_coldwar_bow_west",
       "@zsn_coldwar_hc_east",
+      "@zsn_coldwar_rh_west",
       "@zsn_soviet_troops_disclose"
     ]
   }
