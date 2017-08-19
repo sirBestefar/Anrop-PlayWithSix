@@ -78,23 +78,6 @@
     ]
   },
   {
-    "title": "HLC",
-    "mods": [
-      "@hlcmods_ak",
-      "@hlcmods_augs",
-      "@hlc_ar15",
-      "@hlc_awm",
-      "@hlc_g36",
-      "@hlcmods_core",
-      "@hlcmods_fal",
-      "@hlcmods_g3",
-      "@hlcmods_m14",
-      "@hlcmods_m60e4",
-      "@hlc_wp_mp5",
-      "@hlc_wp_saw"
-    ]
-  },
-  {
     "title": "I44 Terrains",
     "mods": [
       "@cup_terrains_core",
@@ -245,8 +228,8 @@
       "@cup_units",
       "@cup_weapons",
       "@fow",
-      "@hlcmods_core",
-      "@hlcmods_g3",
+      "@niarms_niarsenal",
+      "@niarmsg3_cup",
       "@soviet_troops_disclose",
       "@us_military_mod_a3",
       "@zsn_coldwar",
@@ -265,8 +248,8 @@
       "@cup_vehicles",
       "@cup_vehicles_ace_compat",
       "@cup_weapons",
-      "@hlcmods_ak",
-      "@hlcmods_core",
+      "@niarms_niarsenal",
+      "@niarmsak_cup",
       "@rh_acc",
       "@rh_m4_a3",
       "@soviet_troops_disclose",
