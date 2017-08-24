@@ -201,7 +201,6 @@
       "@cup_units",
       "@cup_vehicles",
       "@cup_weapons",
-      "@soviet_troops_disclose",
       "@us_military_mod_a3",
       "@zsn_coldwar"
     ]
@@ -214,7 +213,6 @@
       "@cup_weapons",
       "@rhs_afrf3",
       "@rhs_usf3",
-      "@soviet_troops_disclose",
       "@us_military_mod_a3",
       "@zsn_coldwar",
       "@zsn_coldwar_rhs_west",
@@ -229,11 +227,10 @@
       "@cup_weapons",
       "@fow",
       "@niarms_niarsenal",
-      "@niarmsg3_cup",
-      "@soviet_troops_disclose",
       "@us_military_mod_a3",
       "@zsn_coldwar",
-      "@zsn_coldwar_bundes"
+      "@zsn_coldwar_bundes",
+      "@zsn_coldwar_hc_east"
     ]
   },
   {
@@ -249,10 +246,12 @@
       "@cup_vehicles_ace_compat",
       "@cup_weapons",
       "@niarms_niarsenal",
-      "@niarmsak_cup",
+      "@niarmsar15_ace3",
+      "@niarmsfal_ace",
+      "@niarmsg3_ace",
+      "@niarmsmp5_ace",
       "@rh_acc",
       "@rh_m4_a3",
-      "@soviet_troops_disclose",
       "@us_military_mod_a3",
       "@zsn_coldwar",
       "@zsn_coldwar_hc_east",
