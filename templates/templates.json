@@ -64,6 +64,17 @@
     ]
   },
   {
+    "title": "Anrop TvT ACE3 + STHUD + loadouts",
+    "mods": [
+      "@ace3",
+      "@ace3_particles",
+      "@cba_a3",
+      "@shacktac_user_interface",
+      "@task_force_radio_dev",
+      "@zsn_loadouts"
+    ]
+  },
+  {
     "title": "CUP Terrain Pack",
     "mods": [
       "@cup_terrains_core",
