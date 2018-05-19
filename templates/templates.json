@@ -187,27 +187,6 @@
     ]
   },
   {
-    "title": "SFP [Dev]",
-    "mods": [
-      "@cba_a3",
-      "@sfp_nightly",
-      "@sfp_dev_nightly"
-    ]
-  },
-  {
-    "title": "SFP Islands [Dev]",
-    "mods": [
-      "@cup_terrains_core",
-      "@cup_terrains_maps",
-      "@sfp_bjorkfors_nightly",
-      "@sfp_objects_nightly",
-      "@sfp_roso_nightly",
-      "@sfp_slattakra_nightly",
-      "@sfp_sturko_nightly",
-      "@sfp_wamako_nightly"
-    ]
-  },
-  {
     "title": "Task Force Radio",
     "mods": [
       "@cba_a3",
