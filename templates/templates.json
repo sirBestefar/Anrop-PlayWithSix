@@ -75,6 +75,24 @@
     ]
   },
   {
+    "title": "Arma Sweden",
+    "mods": [
+      "@ace3",
+      "@arma_sweden_extras",
+      "@cba_a3",
+      "@cup_ace_compatibility",
+      "@cup_terrains_core",
+      "@cup_terrains_maps",
+      "@cup_units",
+      "@cup_vehicles",
+      "@cup_vehicles_ace_compat",
+      "@cup_weapons",
+      "@sam3",
+      "@task_force_radio",
+      "@tf47_launchers"
+    ]
+  },
+  {
     "title": "CUP Terrain Pack",
     "mods": [
       "@cup_terrains_core",
