@@ -18,8 +18,6 @@ app.get('/', function (req, res) {
 })
 
 app.use('/operations', require('./operations'))
-app.use('/redirect', require('./redirect'))
-app.use('/search', require('./search'))
 app.use('/templates', require('./templates'))
 
 app.listen(process.env.PORT || 3000)
