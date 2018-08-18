@@ -19,9 +19,7 @@
     "cors": "^2.8.3",
     "express": "^4.15.2",
     "express-robots": "^0.1.6",
-    "memory-cache": "^0.1.6",
     "newrelic": "^1.38.2",
-    "playwithsix": "0.0.12",
     "request": "^2.81.0"
   },
   "devDependencies": {
