@@ -77,6 +77,7 @@
   {
     "title": "Arma Sweden",
     "mods": [
+      "@abramia",
       "@ace3",
       "@arma_sweden_extras",
       "@cba_a3",
@@ -87,7 +88,12 @@
       "@cup_vehicles_ace_compat",
       "@cup_weapons",
       "@cup_weapons_ace_compat",
+      "@g-o-s-leskovets",
+      "@mbg_buildings3",
+      "@mbg_celle2",
+      "@prei_khmaoch_luong",
       "@sam3",
+      "@shacktac_user_interface",
       "@task_force_radio",
       "@tf47_launchers"
     ]
