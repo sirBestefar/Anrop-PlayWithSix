@@ -1,7 +1,9 @@
 .dockerignore
-.git
+.git/
 .gitignore
 .travis.yml
 docker-compose.yml
 Dockerfile
-node_modules
+node_modules/
+README.md
+test/
