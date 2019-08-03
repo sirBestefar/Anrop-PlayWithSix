@@ -11,7 +11,7 @@ const UPCOMING_OPERATIONS_URL = OPERATIONS_URL + 'upcoming'
 const app = express()
 
 app.get('/config.yml', function (req, res) {
-  request.get({url: UPCOMING_OPERATIONS_URL, json: true}, function (err, response, operations) {
+  request.get({ url: UPCOMING_OPERATIONS_URL, json: true }, function (err, response, operations) {
     if (err) {
       res.status(500).send(err)
       return
@@ -23,13 +23,13 @@ app.get('/config.yml', function (req, res) {
 
 app.get('/:id.yml', function (req, res) {
   const operationUrl = OPERATIONS_URL + req.params.id
-  request.get({url: operationUrl, json: true}, function (err, response, operation) {
+  request.get({ url: operationUrl, json: true }, function (err, response, operation) {
     if (err) {
       res.status(500).send(err)
       return
     }
 
-    request.get({url: operationUrl + '/play_with_six', json: true}, function (err, response, mods) {
+    request.get({ url: operationUrl + '/play_with_six', json: true }, function (err, response, mods) {
       if (err) {
         res.status(500).send(err)
         return
