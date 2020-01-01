@@ -79,6 +79,9 @@
     "mods": [
       "@abramia",
       "@ace3",
+      "@adv_ace_cpr",
+      "@adv_ace_splint",
+      "@anizay",
       "@arma_sweden_extras",
       "@cba_a3",
       "@cfp",
@@ -99,11 +102,10 @@
       "@prei_khmaoch_luong",
       "@rosche",
       "@ruha",
-      "@sam3",
+      "@sfp",
       "@shacktac_user_interface",
       "@summa",
-      "@task_force_radio",
-      "@tf47_launchers"
+      "@task_force_radio_dev"
     ]
   },
   {
