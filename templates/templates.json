@@ -79,6 +79,7 @@
     "mods": [
       "@abramia",
       "@ace3",
+      "@acex_a3",
       "@anizay",
       "@arma_sweden_extras",
       "@cba_a3",
@@ -95,15 +96,18 @@
       "@ihantala",
       "@ihantala_winter",
       "@itc_land_systems",
-      "@mbg_buildings3",
-      "@mbg_celle2",
-      "@prei_khmaoch_luong",
+      "@jsrs-soundmod",
+      "@jsrs-soundmod-cup-vehicles",
+      "@jsrs-soundmod-cup-weapons",
+      "@rhs_pkl",
       "@rosche",
       "@ruha",
       "@sfp",
+      "@sfp-jsrs-sounds",
       "@shacktac_user_interface",
       "@summa",
-      "@task_force_radio_dev"
+      "@task_force_radio_dev",
+      "@vt7"
     ]
   },
   {
