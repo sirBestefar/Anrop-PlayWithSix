@@ -8,12 +8,12 @@ const cors = require('cors')
 const app = express()
 app.use(cors())
 
-app.get('/robots.txt', function (req, res) {
+app.get('/robots.txt', (req, res) => {
   res.type('text/plain')
   res.send('User-agent: *\nDisallow: /')
 })
 
-app.get('/', function (req, res) {
+app.get('/', (req, res) => {
   res.send('hello world!')
 })
 

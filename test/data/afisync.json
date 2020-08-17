@@ -1,0 +1,34 @@
+{
+  "repositories": [
+    {
+      "mods": [
+        {
+          "name": "@afi_editor_enhancements",
+          "optional": true
+        },
+        {
+          "name": "@afi"
+        },
+        {
+          "name": "@afi_ace3"
+        },
+        {
+          "name": "@cba_a3"
+        },
+        {
+          "name": "@rhs_afrf3"
+        },
+        {
+          "name": "@rhs_gref"
+        },
+        {
+          "name": "@rhs_saf"
+        },
+        {
+          "name": "@rhs_usf3"
+        }
+      ],
+      "name": "armafinland.fi Primary"
+    }
+  ]
+}
