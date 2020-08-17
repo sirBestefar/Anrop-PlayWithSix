@@ -1,7 +1,6 @@
 # Anrop Play withSIX API
 
 * Preset templates with mods for usage in operations manager
-* Generate Play withSIX master configurations and per operation
 
 ## Requirements
 
