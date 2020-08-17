@@ -18,8 +18,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "newrelic": "^6.5.0",
-    "request": "^2.88.2"
+    "newrelic": "^6.5.0"
   },
   "devDependencies": {
     "jest": "^25.1.0",
