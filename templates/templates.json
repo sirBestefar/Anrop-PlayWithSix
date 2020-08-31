@@ -6,7 +6,8 @@
       "@3cb_baf_units",
       "@3cb_baf_vehicles",
       "@3cb_baf_weapons",
-      "@cba_a3"
+      "@cba_a3",
+      "@rksl_attachments_pack"
     ]
   },
   {
@@ -94,7 +95,7 @@
       "@em",
       "@g-o-s-leskovets",
       "@ihantala",
-      "@ihantala_winter",
+      "@ihantalaw",
       "@itc_land_systems",
       "@jsrs-soundmod",
       "@jsrs-soundmod-cup-vehicles",
