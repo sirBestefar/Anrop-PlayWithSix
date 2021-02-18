@@ -102,7 +102,6 @@
       "@jsrs-soundmod-cup-weapons",
       "@lythium",
       "@napf_island_a3",
-      "@napf_winter",
       "@rhs_pkl",
       "@rosche",
       "@sfp",
@@ -110,7 +109,8 @@
       "@task_force_radio_dev",
       "@tembelan_island",
       "@tier1_artillery_mod",
-      "@vt7"
+      "@vt7",
+      "@zen"
     ]
   },
   {
