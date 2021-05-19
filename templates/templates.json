@@ -240,6 +240,28 @@
       "@shacktac_user_interface"
     ]
   },
+    {
+    "title": "Fredags Mys för hela Anrop",
+    "mods": [
+      "@ace3_no_medical",
+      "@ace3_particles",
+      "@cba_a3 ",
+      "@cup_terrains_core",
+      "@cup_terrains_maps",
+      "@cup_units",
+      "@cup_vehicles",
+      "@cup_vehicles_ace_compat",
+      "@cup_weapons",
+      "@cup_weapons_ace_compat",
+      "@diwako_dui",
+      "@jsrs-soundmod", 
+      "@jsrs-soundmod-cup-vehicles",
+      "@jsrs-soundmod-cup-weapons",
+      "@sfp",
+      "@sfp-jsrs-sounds",
+      "@task_force_radio_dev"
+    ]
+  },
   {
     "title": "Project OPFOR",
     "mods": [
